@@ -1,0 +1,17 @@
+Student ID,Name,Subject,Score,Average,Letter Grade
+1,Alice,Maths,100,76.25,C
+1,Alice,Science,67,76.25,C
+1,Alice,English,61,76.25,C
+1,Alice,History,77,76.25,C
+2,Bob,Maths,75,70.75,C
+2,Bob,Science,74,70.75,C
+2,Bob,English,68,70.75,C
+2,Bob,History,66,70.75,C
+3,Charlie,Maths,94,85.75,B
+3,Charlie,Science,65,85.75,B
+3,Charlie,English,97,85.75,B
+3,Charlie,History,87,85.75,B
+4,Diana,Maths,62,65.25,D
+4,Diana,Science,61,65.25,D
+4,Diana,English,65,65.25,D
+4,Diana,History,73,65.25,D

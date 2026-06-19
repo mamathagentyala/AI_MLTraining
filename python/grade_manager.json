@@ -1,0 +1,42 @@
+{
+    "1": {
+        "student_id": 1,
+        "name": "Alice",
+        "grades": {
+            "Maths": 100,
+            "Science": 67,
+            "English": 61,
+            "History": 77
+        }
+    },
+    "2": {
+        "student_id": 2,
+        "name": "Bob",
+        "grades": {
+            "Maths": 75,
+            "Science": 74,
+            "English": 68,
+            "History": 66
+        }
+    },
+    "3": {
+        "student_id": 3,
+        "name": "Charlie",
+        "grades": {
+            "Maths": 94,
+            "Science": 65,
+            "English": 97,
+            "History": 87
+        }
+    },
+    "4": {
+        "student_id": 4,
+        "name": "Diana",
+        "grades": {
+            "Maths": 62,
+            "Science": 61,
+            "English": 65,
+            "History": 73
+        }
+    }
+}
