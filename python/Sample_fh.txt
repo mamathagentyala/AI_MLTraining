@@ -1,2 +1,1 @@
-
- student = "alice
+students details in table formate
