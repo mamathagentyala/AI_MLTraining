@@ -1,0 +1,21 @@
+# Web server
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-multipart>=0.0.9      # needed for file uploads
+python-dotenv>=1.0           # reads the .env file
+
+# LLM
+langchain>=1.0
+langchain-core>=1.0
+langchain-text-splitters>=0.3
+
+# LLM provider: install the one that matches LLM_PROVIDER in .env
+langchain-openai>=0.3
+# langchain-anthropic
+# langchain-groq
+# langchain-ollama
+
+# RAG
+chromadb>=1.0
+pypdf>=5.0
+sentence-transformers>=3.0
